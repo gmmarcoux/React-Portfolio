@@ -53,4 +53,4 @@ const header = {
     email: 'gmmarcoux@me.com',
   }
   
-  export { header, aboutMe, portfolio, , contactMe }
+  export { header, aboutMe, portfolio, resume, contactMe }

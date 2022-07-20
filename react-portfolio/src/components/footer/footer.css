@@ -1,0 +1,15 @@
+.footer {
+    color: black;
+    font-style: italic;
+    text-align: center;
+    padding: 2px;
+}
+
+.githubfootlink {
+    color: royalblue;
+}
+
+.githubfootlink:hover {
+    cursor: pointer;
+    color: blueviolet;
+}

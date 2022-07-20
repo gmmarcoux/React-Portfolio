@@ -1,3 +1,10 @@
 import './aboutMe.css';
-import { about } from '../../portfolio'
+import { about, aboutMe } from '../../portfolio'
 import GitHubIcon from '@material-ui/icones/GitHub'
+
+
+
+
+
+
+export default aboutMe
