@@ -1,3 +1,6 @@
 .header {
     border: 2px blue;
+    justify-content: space-between;
+    margin: 0 auto;
+    width: 98%;
 }
