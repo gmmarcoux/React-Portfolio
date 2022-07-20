@@ -1,5 +1,6 @@
 html {
   font-size: 62%;
+  scroll-behavior: smooth;
 }
 
 body {
@@ -11,4 +12,13 @@ body {
   background: radial-gradient(ellipse at center, #c9fffc);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+}
+
+button {
+  cursor: pointer;
+}
+
+Link:hover {
+  cursor: pointer;
+  color: aliceblue;
 }
