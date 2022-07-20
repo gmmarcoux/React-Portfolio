@@ -22,24 +22,24 @@ const header = {
       description:
         'During the pandemic, everyone was stuck inside all day. As people were allowed to go back outside, many people began travelling the world as soon as borders opened. This website was designed with keeping the safety of travellers during Covid as safe and informed as possible',
       stack: ['html, CSS, API, Skeleton, Java'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+      sourceCode: 'https://github.com/gmmarcoux/covid-risk-tracking-site',
+      livePreview: 'https://sabotagecat.github.io/covid-risk-tracking-site/',
     },
     {
       name: 'Gaming Social Media',
       description:
         'A site for people who enjoy gaming to come together and discuss their favorite games on the market. The goal is to build a community within gamers outside of the games.',
       stack: ['html, CSS, Java'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+      sourceCode: 'https://github.com/gmmarcoux/Video-Game-Chats',
+      livePreview: 'https://secret-coast-34340.herokuapp.com/',
     },
     {
       name: 'Introduction to Game-Mastering',
       description:
         'Playing RPGs is already such a hard task. Leading thoe games is even harder. With that in mind, this site hopws to help new GMs create one-shot campaigns',
       stack: ['Graphql, React, CSS, Java, NoSQL'],
-      sourceCode: 'https://github.com',
-      livePreview: 'https://github.com',
+      sourceCode: 'https://github.com/gmmarcoux/tavern-masters',
+      livePreview: 'https://github.com/gmmarcoux/tavern-masters/blob/main',
     },
   ]
   
