@@ -1,0 +1,7 @@
+.resume {
+    color: rgb(127, 163, 255);
+}
+
+.resume:hover {
+    color: blueviolet;
+}
