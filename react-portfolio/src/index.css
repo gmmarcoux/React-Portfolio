@@ -8,6 +8,7 @@ body {
   overflow: hidden;
   display: block;
   background-color: rgb(201, 255, 237);
+  background: radial-gradient(ellipse at center, #c9fffc);
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
